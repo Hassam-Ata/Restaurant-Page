@@ -1,0 +1,16 @@
+nav{
+    
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
+    gap: 100px;
+
+}
+
+.Btn:hover{
+  
+  background-color: aqua;
+  cursor: pointer;
+}
+
+
