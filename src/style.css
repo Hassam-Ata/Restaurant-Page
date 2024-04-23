@@ -1,16 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 100vh;
+}
+
 nav{
     
     display: flex;
     justify-content: center;
     padding-top: 2em;
-    gap: 100px;
+    gap: 3em;
+    height: 10%;
 
 }
+.content{
+   text-align: center;
 
-.Btn:hover{
-  
-  background-color: aqua;
+   color: rgb(157, 16, 16);
+ 
+}
+
+.Btn{
+  font-size: 2em;
   cursor: pointer;
 }
+
+
+
 
 
